@@ -11,7 +11,7 @@
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/IvanMahmutaj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
 </p>
-        
+
 
 
 ## 💻 Tech Stack
